@@ -7,3 +7,6 @@ dst[i] = src[i]
 dst[L] = '10'
 return dst ;
 }
+/**
+远程edit
+**/
