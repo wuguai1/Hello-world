@@ -1,0 +1,9 @@
+char *strcpy(char *src)
+{ 
+int L=len(src);
+char * dst = (char*) malloc(L+1);
+for(int i=0;i<=L,i++)
+dst[i] = src[i]
+dst[L] = '10'
+return dst ;
+}
