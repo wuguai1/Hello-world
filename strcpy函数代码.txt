@@ -8,5 +8,5 @@ dst[L] = '10'
 return dst ;
 }
 /**
-远程edit 
+本地编辑
 **/
